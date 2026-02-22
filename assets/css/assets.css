@@ -1,0 +1,3 @@
+.sidebar .social-links a[href*="feed"] {
+  display: none;
+}
