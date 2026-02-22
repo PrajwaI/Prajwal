@@ -12,7 +12,7 @@ permalink: /about/
 
 # About Me
 
-Hello! Im Prajwal Shrestha
+Hello! Im Prajwal Shrestha,
 
 ## My Interests
 
