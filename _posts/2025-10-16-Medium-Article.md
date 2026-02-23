@@ -2,7 +2,7 @@
 layout: post
 title: How Diffusion Models Are Powering 3D Imagination in AI
 description: I wrote an article on the future of diffusion models
-image: assets/ArticalImage.webp
+image: assets/Artical Image.webp
 
 categories:
 - Innovation
