@@ -9,4 +9,4 @@ Below shows a list of competitions I’ve participated in, including hackathons,
 
 | Title | Team | Points | Place | Type of Event | Winnings | Date |
 | ----- | ---- | ------ | ----- | -------------- | -------- | ----- |
-|CyberPatriot 18|Cisco Cheifs||CyberPatriot|||1/6/2026|
+|CyberPatriot 18|Cisco Cheifs|||CyberPatriot||1/6/2026|
