@@ -57,7 +57,7 @@ Diffusion technology is entering a new era where creativity and intelligence beg
 
 Researchers are exploring ways in which they can combine diffusion concepts with motion capturing processes, physics simulation, and real-time rendering. These findings could allow for environments that can adapt to the user’s responses. The current technology that creates synthetic images today may be the same one that can create interactive virtual worlds for gaming, architecture, and education.
 
-![img-description](assets/Future.png)
+![img-description](assets/ Future.png)
 _Concept of virtual words for gaming_
 
 As this technology grows, the distinction between human ideas and machine creation is becoming one of the same. Diffusion models are changing from being a tool for humans to becoming a creative partner that helps with every step of the process. Helping visualize ideas and concepts that were once deemed impossible.
