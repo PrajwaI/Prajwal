@@ -18,6 +18,7 @@ date: 2025-10-16 00:00 -0500
 
 ![img-description](assets/Article Image.webp)
 _AI image turned into 3D model_
+
 A few years ago, teaching a computer to “imagine” was seen as science fiction. However, today, diffusion models can do just that: they can convert prompts into stunning visual creations, producing lifelike images and, now, even 3D environments. These algorithms don’t just generate pictures; they are learning how to think in depth, understanding perspective, and creating new dimensions of AI.
 
 Diffusion models learn from billions of example images, studying the textures, lighting, and geometry that make our world believable and realistic. Then, when asked to create, they simulate that exact understanding, gradually transforming the complex mathematical patterns into something that feels real. In essence, AI isn’t just copying what it’s seen; it is now learning how to imagine and transform new possibilities grounded in reality.
