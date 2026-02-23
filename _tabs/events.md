@@ -9,4 +9,4 @@ Below shows a chronological list of competitions I’ve participated in, includi
 
 | Title | Team | Points | Place | Type of Event | Winnings |
 | ----- | ---- | ------ | ----- | -------------- | -------- |
-|CyberPatriot 18|Cisco Cheifs||CyberPatriot||
+|CyberPatriot 18|Cisco Cheifs||CyberPatriot|||
