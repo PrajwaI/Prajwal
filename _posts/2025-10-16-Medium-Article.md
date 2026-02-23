@@ -70,4 +70,4 @@ Having spent countless hours on [Blender](https://www.blender.org/about/), craft
 
 ## Background Information on the Publication
 
-This article was created on Medium by me on October 16th, 2025, as part of a focus project at The Knowledge Society(TKS). The goal of the article was to express my deep understanding of the leaders in the field and showcase the future ahead.
+At The Knowledge Society(TKS), we were challenged to write an intensive article on a topic we were deeply interested in. As someone with experience in game and 3D development, the opportunity to learn about the industry was a no-brainer. This article was created on [Medium](https://medium.com/@prajwalshrestha2031/from-noise-to-reality-how-diffusion-models-are-powering-3d-imagination-in-ai-7fcf5fe91abb) by me on October 16th, 2025, as part of a focus project. The goal of the article was to express my deep understanding of the leaders in the field and showcase the future ahead.
