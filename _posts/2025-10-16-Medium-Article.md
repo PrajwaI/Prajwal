@@ -31,7 +31,8 @@ Diffusion models are grounded in a surprisingly simple idea: they learn to rever
 
 The internal process of 3D diffusion functions as a dynamic system of stochastic [differential equations](https://tutorial.math.lamar.edu/classes/de/de.aspx) that governs both probability flow and spatial reconstruction. Each step models the [temporal evolution](https://www.sciencedirect.com/topics/computer-science/temporal-evolution) of a probability field, where every [voxel](https://www.sciencedirect.com/topics/mathematics/voxel) or latent variable follows a noisy trajectory guided by learned gradients. This mirrors physical diffusion and thermodynamic relaxation: the system begins in a high-entropy state and gradually converges toward equilibrium, forming coherent geometry. Differentiable rendering simulates how light interacts with surfaces, embedding physical constraints that maintain optical realism. Through this synthesis of mathematics and physics, diffusion models translate probabilistic motion into structured form, reconstructing three-dimensional worlds through principles akin to energy balance and natural order.
 As [Chen et al. (2024) describe](https://academic.oup.com/nsr/article/11/12/nwae348/7810289), this is achieved through a forward process that adds noise and a backward process that reconstructs it, mathematically modeled using stochastic differential equations. What makes this approach powerful is that the AI doesn’t actually memorize images; it learns how visual data behaves statistically, allowing it to generate entirely new and realistic samples.
-![img-description](assets/Simple Diffusion.png)
+
+![img-description](assets/Article Image2.webp)
 _The process of diffusion_
 
 This framework has already surpassed older generative methods like [GANs](https://www.ibm.com/think/topics/generative-adversarial-networks), offering more stable training while getting higher-quality results. Yet researchers emphasize that the theoretical possibilities are continuing to evolve, particularly in how well diffusion can scale to high-dimensional, real-world data such as 3D scenes.
@@ -42,7 +43,7 @@ Understanding how diffusion models work is only a small part of the story. The r
 
 AI-powered 3D generation is transforming and reshaping how small creators to big industries approach design. According to Research and Markets, the global 3D modeling market is expected to reach $14.9 billion by 2025, growing at a staggering 22.5% [CAGR](https://www.investopedia.com/terms/c/cagr.asp), due to the large impacts of AI model generation (SuperAGI, 2024). These tools drastically reduce modeling time, improve quality, and make complex designs accessible to more creators of all sizes.
 
-![img-description](assets/Simple Chart.png)
+![img-description](assets/Article Image3.webp)
 _Expected value of Ai in the future_
 
 As someone who creates 3D assets on the Roblox Marketplace, I’ve seen how long even simple models take to create and texture. Although the rise of diffusion-based 3D tools could shorten that process from hours to minutes, freeing creators like me from the time drain to focus on imagination. Rather than replacing creators, this technology empowers them, allowing them to expand their creativity with computational progress to redefine how digital worlds are built.
@@ -57,7 +58,7 @@ Diffusion technology is entering a new era where creativity and intelligence beg
 
 Researchers are exploring ways in which they can combine diffusion concepts with motion capturing processes, physics simulation, and real-time rendering. These findings could allow for environments that can adapt to the user’s responses. The current technology that creates synthetic images today may be the same one that can create interactive virtual worlds for gaming, architecture, and education.
 
-![img-description](assets/ Future.png)
+![img-description](assets/Article Image4.webp)
 _Concept of virtual words for gaming_
 
 As this technology grows, the distinction between human ideas and machine creation is becoming one of the same. Diffusion models are changing from being a tool for humans to becoming a creative partner that helps with every step of the process. Helping visualize ideas and concepts that were once deemed impossible.
