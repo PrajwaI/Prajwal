@@ -2,7 +2,7 @@
 layout: post
 title: CyberPatriots Semi-Finalists 
 description: Completeted in Cyber Patriots Semi-Finals
-image: 
+image: assets/team.png
 
 categories:
 - Cybersecurity
