@@ -2,7 +2,7 @@
 layout: post
 title: How Diffusion Models Are Powering 3D Imagination in AI
 description: I wrote an article on the future of diffusion models
-image: assets/team.png
+image: assets/Artical Image.webp
 
 categories:
 - Innovation
@@ -15,9 +15,6 @@ date: 2025-10-16 00:00 -0500
 ---
 
 # How Diffusion Models Are Powering 3D Imagination in AI
-
-![img-description](assets/Article Image.webp)
-_AI image turned into 3d Model_
 
 A few years ago, teaching a computer to “imagine” was seen as science fiction. However, today, diffusion models can do just that: they can convert prompts into stunning visual creations, producing lifelike images and, now, even 3D environments. These algorithms don’t just generate pictures; they are learning how to think in depth, understanding perspective, and creating new dimensions of AI.
 
