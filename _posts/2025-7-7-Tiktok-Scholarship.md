@@ -10,7 +10,6 @@ categories:
 
 tags:
 - TKS
-- Scholarship
 
 date: 2025-7-7 00:00 -0500
 ---
