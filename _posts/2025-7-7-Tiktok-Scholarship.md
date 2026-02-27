@@ -2,7 +2,7 @@
 layout: post
 title: How I won a $3,250 scholarship for TKS
 description: I won a scholarship partnered with TikTok and TKS
-image: assets/Article TKS.png
+image: assets/TKS.png
 
 categories:
 - Innovation
