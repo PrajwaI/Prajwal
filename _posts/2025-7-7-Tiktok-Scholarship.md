@@ -6,7 +6,7 @@ image: assets/TKS.png
 
 categories:
 - Innovation
-- Educational  
+- Educational
 
 tags:
 - TKS
