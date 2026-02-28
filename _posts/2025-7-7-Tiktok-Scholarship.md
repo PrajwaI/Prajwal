@@ -21,4 +21,4 @@ When I found out about the scholarship opportunity, I knew I would have to striv
 
 There were only a couple of days left to fill out the scholarshop form. I spent many hours brainstorming to come up with an idea of making a direct "for you" page related to educational content, which I named "learn." My idea also incorporated many more ideas, which can be seen through the video I created for the scholarship below.
 
-{% include embed/{youtube}.html id='{x-0do0AJdfs&t=3s}' %}
+{% include embed/{youtube}.html id='{x-0do0AJdfs}' %}
