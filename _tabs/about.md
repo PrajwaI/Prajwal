@@ -6,7 +6,7 @@ order: 1
 
 Hey! My name is Prajwal Shrestha, and I am a sophomore in Maryland attending the Internet Technology program at Eastern Technical High School. In addition to being a student at Eastern Technical High School, I am also a member of the Knowledge Society (TKS), where I collaborate with industry leaders and companies to solve problems and innovate technologies.
 
-While being an academically strong student, I have spent time learning game development and 3D modeling, generating tens of thousands of dollars through my process. My deep fascination with development began at a very young age, when I was introduced to Roblox. On this online platform, users can create and play games while purchasing and customizing avatar items.
+While being an academically strong student, I have spent time learning game development and 3D modeling, generating tens of thousands of dollars through my process. My deep fascination with development began at a very young age, when I was introduced to Roblox. On this online platform, users can create and play games, purchase and customize avatar items.
 
 My passion grew bigger when I enrolled in AP Computer Science Principles in my freshman year. Beyond just learning coding, I learned about the functionality and history behind the mechanics that made it possible.
 
